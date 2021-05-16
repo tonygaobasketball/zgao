@@ -1,0 +1,21 @@
+site_name: Zheming Gao
+
+nav:
+    - Home: index.md
+    - Publications: pub.md
+    - Teaching: teach.md
+    - Research: research.md 
+
+theme:
+    name: mkdocs
+    nav_style: dark
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+
+markdown_extensions:
+  - attr_list
+
+copyright: 
+    Copyright &copy; Zheming Gao 2021
