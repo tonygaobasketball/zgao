@@ -22,6 +22,11 @@ Gao, Z., & Petrova, G.\* (2019), *Calcolo*, 56(2), 1-14.
 
 </br>
 
-## Working papers
+
+
+## Ph.D. dissertation
+
+**Kernel-free support vector machine models for data classification**
+
 
 
