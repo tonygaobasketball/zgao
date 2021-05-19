@@ -11,17 +11,7 @@ theme:
     scheme： default
     primary: blue grey
 
-<!---
-theme:
-    palette:
-        primary: blue grey
-    name: mkdocs
-    nav_style: dark
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
--->
+
 
 markdown_extensions:
   - attr_list
