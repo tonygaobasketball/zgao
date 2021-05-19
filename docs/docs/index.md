@@ -27,7 +27,7 @@ His work is highly interdisciplinary. He is looking to collaborate with research
 
 ## Contact
 
-**Email:**  zgao at ncsu dot edu
+**Email:**  zgao at ncsu dot edu  
 **Office:**  
 **Address:**  
 
