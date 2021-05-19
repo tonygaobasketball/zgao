@@ -7,6 +7,14 @@ nav:
     - Research: research.md 
 
 theme:
+    name: mkdocs
+    nav_style: dark
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+[](
+theme:
   name: material
   palette:
     - scheme: default
@@ -17,6 +25,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+)
 
 markdown_extensions:
   - attr_list
