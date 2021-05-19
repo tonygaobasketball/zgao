@@ -9,7 +9,7 @@ nav:
 theme:
     name: mkdocs
     nav_style: dark
-;    highlightjs: true
+    <!--highlightjs: true-->
     hljs_languages:
         - yaml
         - rust
