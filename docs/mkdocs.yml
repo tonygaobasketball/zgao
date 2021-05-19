@@ -6,7 +6,7 @@ nav:
     - Teaching: teach.md
     - Research: research.md 
 
-[
+<!---
 theme:
     palette:
         primary: blue grey
@@ -16,7 +16,7 @@ theme:
     hljs_languages:
         - yaml
         - rust
-]: <>
+-->
 
 markdown_extensions:
   - attr_list
