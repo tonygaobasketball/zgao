@@ -10,7 +10,7 @@ theme:
     palette:
         primary: blue grey
     name: mkdocs
-    nav_style: dark
+
     highlightjs: true
     hljs_languages:
         - yaml
