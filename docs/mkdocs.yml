@@ -13,19 +13,17 @@ theme:
     hljs_languages:
         - yaml
         - rust
-<!--
-theme:
-  name: material
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
--->
+;theme:
+;  name: material
+;  palette:
+;    - scheme: default
+;      toggle:
+;        icon: material/toggle-switch-off-outline
+;        name: Switch to dark mode
+;    - scheme: slate
+;      toggle:
+;        icon: material/toggle-switch
+;        name: Switch to light mode-->
 
 markdown_extensions:
   - attr_list
