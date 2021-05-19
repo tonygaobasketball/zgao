@@ -6,6 +6,11 @@ nav:
     - Teaching: teach.md
     - Research: research.md 
 
+theme:
+  palette:
+    scheme： default
+    primary: blue grey
+
 <!---
 theme:
     palette:
