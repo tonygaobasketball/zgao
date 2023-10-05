@@ -9,7 +9,7 @@ Moosaei, H., Mousavi, A., Hladík, M., & Gao, Z.\* (2021), *arXiv preprint arXiv
 ## Journal papers (published and accepted)
 
 **A novel kernel-free least squares twin support vector machine for fast and accurate multi-class classification**  
-Gao, Z., Fang, S.-C., Gao, X., Luo, J.\*, & Medhin, N. (2021), *Knowledge-Based Systems*, https://doi.org/10.1016/j.knosys.2021.107123  
+Gao, Z., Fang, S.-C., Gao, X., Luo, J.\*, & Medhin, N. (2021), *Knowledge-Based Systems*, 226, 107123.  
 
 **A kernel-free double well potential support vector machine with applications**  
 Gao, Z., Fang, S.-C., Luo, J.\*, & Medhin, N. (2021), *European Journal of Operational Research*, 290(1), 248-262.
